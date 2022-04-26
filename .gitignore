@@ -96,3 +96,6 @@ Untitled*
 
 # Environment
 Pipfile*
+
+# Output
+*.pdf
